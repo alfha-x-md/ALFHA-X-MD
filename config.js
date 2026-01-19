@@ -8,7 +8,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://res.cloudinary.com/dhpfn4umb/image/upload/v1768786473/ej7p8gkhfezafeyuhjpl.png",
 ALIVE_MSG: process.env.ALIVE_MSG || "*HELLO ALFHA X MD IS ALIVE NOW*",
-BOT_OWNER: '94784167385',  // Replace with the owner's phone number
+BOT_OWNER: '94740235588',  // Replace with the owner's phone number
 AUTO_STATUS_SEEN: 'true',
 AUTO_STATUS_REACT: 'true',
 
